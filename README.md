@@ -1,5 +1,3 @@
-# E-Commerce-Sales-Dashboard
-
 # 📊 E-Commerce Sales Dashboard (Power BI Project)
 
 ## 🚀 Project Overview
@@ -7,8 +5,6 @@
 This project presents an interactive **E-Commerce Sales Dashboard** built using Power BI to analyze and visualize sales performance across multiple dimensions such as state, customer, category, and time.
 
 The dashboard enables business stakeholders to monitor key performance indicators (KPIs), identify trends, and make data-driven decisions to improve profitability and operational efficiency.
-
----
 
 ## 🎯 Objectives
 
@@ -18,16 +14,12 @@ The dashboard enables business stakeholders to monitor key performance indicator
 * Understand sales distribution by category and sub-category
 * Analyze customer payment preferences
 
----
-
 ## 🛠️ Tools & Technologies
 
 * **Power BI** (Data Visualization & Dashboarding)
 * **Microsoft Excel / CSV** (Dataset)
 * **DAX (Data Analysis Expressions)**
 * **Power Query** (Data Cleaning & Transformation)
-
----
 
 ## 📂 Dataset Description
 
@@ -41,8 +33,6 @@ The dataset contains transactional e-commerce data including:
 * Product Category & Sub-category
 * Payment Mode
 * Order Date
-
----
 
 ## 🔄 Project Workflow
 
@@ -69,8 +59,6 @@ Created important measures such as:
 * Total Profit
 * Total Quantity
 * Average Order Value (AOV)
-
----
 
 ## 📊 Dashboard Features
 
@@ -116,14 +104,11 @@ Created important measures such as:
 * Printers and Bookcases generate highest profit
 * Tables and Accessories show lower profitability
 
----
-
 ## 🎛️ Interactive Features
 
 * Quarter-based filtering (Q1–Q4)
 * State-level filtering
 * Dynamic and user-friendly visuals
-
 ---
 
 ## 📸 Dashboard Preview
@@ -132,15 +117,12 @@ Created important measures such as:
 )
 
 ---
-
 ## 💡 Key Insights
 
 * High dependency on COD payment method
 * Seasonal fluctuations in profit
 * Certain categories contribute disproportionately to sales
 * Opportunity to improve low-performing sub-categories
-
----
 
 ## 📈 Business Impact
 
@@ -151,8 +133,6 @@ This dashboard helps businesses to:
 * Improve customer targeting strategies
 * Optimize product and category performance
 
----
-
 ## 🔮 Future Enhancements
 
 * Add sales forecasting using time-series models
@@ -160,14 +140,6 @@ This dashboard helps businesses to:
 * Deploy dashboard to Power BI Service for sharing
 * Add customer segmentation analysis
 
----
-
 ## 🙌 Conclusion
 
 This project demonstrates strong skills in data analysis, data visualization, and business intelligence using Power BI. It highlights the ability to transform raw data into actionable insights, making it a valuable portfolio project for aspiring data analysts.
-
----
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub!
