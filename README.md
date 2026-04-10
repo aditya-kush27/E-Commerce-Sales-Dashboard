@@ -128,7 +128,8 @@ Created important measures such as:
 
 ## 📸 Dashboard Preview
 
-(https://github.com/aditya-kush27/E-Commerce-Sales-Dashboard/blob/main/ecommere%20dashboard.png)
+(<img width="1275" height="714" alt="ecommere dashboard" src="https://github.com/user-attachments/assets/a2164ac9-3632-4d33-a333-6f079ff67438" />
+)
 
 ---
 
